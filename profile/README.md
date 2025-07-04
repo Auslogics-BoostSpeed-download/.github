@@ -33,7 +33,7 @@ Auslogics BoostSpeed is a comprehensive PC optimization tool that helps clean, a
 
 ## 🖼 Preview
 
-![Screenshot 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqdIP9trwDPjd1ctH3CiRl30n6C0Xo82VwBw&s)  
+ 
 ![Screenshot 2](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/db922f06-07a1-4536-baf9-c7a7b5b65ebf.png?auto=format&q=50)
 
 ---
